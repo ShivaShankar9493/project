@@ -1,0 +1,47 @@
+body
+{
+	
+	background-image:url("pic4.jpg"); background-size:cover;
+}
+
+.a{padding:2%; margin-top:0;}
+.a img
+{
+transition:all 1s linear;	
+}
+img:hover
+{
+	transform:rotateZ(15deg);
+}
+img:not(.a10)
+{
+	shape-outside:circle(43%);
+	clip-path:circle(43%);	
+}
+.a10 img{
+
+	shape-outside:circle(41%);
+	clip-path:circle(41%);
+}
+.a1,.a2
+{	
+	overflow:hidden;
+	float:left;padding:5px;
+}
+.a4,.a5
+{
+	overflow:hidden;
+	float:left;padding:5px;
+}
+.a7,.a8
+{
+	overflow:hidden;
+	float:left;padding:5px;
+}
+.a10,.a11
+{
+	overflow:hidden;
+	float:left;;padding:5px;
+}
+
+

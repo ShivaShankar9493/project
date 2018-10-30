@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<form >
+  E-mail: <input type="email" name="emailaddress">
+  <input type="submit">
+</form>
+
+
+</body>
+</html>

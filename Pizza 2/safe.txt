@@ -1,0 +1,67 @@
+<html>
+<head><link rel="stylesheet" type="text/css" href="procss.css">
+<style>
+</style>
+</head>
+<body>
+<div class="a">
+<img src="Margherit.jpg">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="file:///C:/Users/shiv/Desktop/PIZZA%20project/pro%20pizza.html" target="_blank"><button onclick="m()"id="one">click me</button></a><br><p id="mt" style="color:white;font-size:25px">Margherit</P><br><br><br><br>
+<img src="Farmhouse.jpg">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="file:///C:/Users/shiv/Desktop/PIZZA%20project/Farmhouse%20page.html" target="_blank"><button onclick="f()" id="two">click me</button></a><br><p style="color:white;font-size:25px">Farmhouse</P><br><br><br><br>
+<img src="PeppyPaneer.jpg">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="file:///C:/Users/shiv/Desktop/PIZZA%20project/PeppyPaneer%20page.html" target="_blank"><button onclick="p()" id="three">click me</button></a><br><p style="color:white;font-size:25px">PeppyPaneer</P><br><br><br><br>
+<img src="Mexicangreenwave.jpg">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="file:///C:/Users/shiv/Desktop/PIZZA%20project/Mexicangreenwave%20page.html" target="_blank"><button onclick="me()" id="four">click me</button></a><br><p style="color:white;font-size:25px">Mexicangreenwave</P><br><br><br><br>
+<img src="Deluxeveggie.jpg">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="file:///C:/Users/shiv/Desktop/PIZZA%20project/Deluxeveggie%20page.html" target="_blank"><button onclick="d()" id="five">click me</button></a><br><p style="color:white;font-size:25px">Deluxeveggie</P><br><br><br><br>
+<img src="5Pepper.jpg">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="file:///C:/Users/shiv/Desktop/PIZZA%20project/5Pepper%20page.html" target="_blank"><button onclick="fi()" id="six">click me</button></a><br><p style="color:white;font-size:25px">5Pepper</P><br><br><br><br>
+<img src="VegExtravaganz.jpg">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="file:///C:/Users/shiv/Desktop/PIZZA%20project/VegExtravaganz%20page.html" target="_blank"><button onclick="v()" id="seven">click me</button></a><br><p style="color:white;font-size:25px">VegExtravaganz</P><br><br><br><br>
+<img src="Corn and cheese.jpg">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="file:///C:/Users/shiv/Desktop/PIZZA%20project/Corn%20and%20cheese%20page.html" target="_blank"><button onclick="c()" id="eight">click me</button></a><br><p style="color:white;font-size:25px">Corn and cheese</P><br><br><br><br>
+<img src="Paneer Makhni.jpg">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="file:///C:/Users/shiv/Desktop/PIZZA%20project/Paneer%20Makhni%20page.html" target="_blank"><button onclick="pa()" id="nine">click me</button></a><br><p style="color:white;font-size:25px">Paneer Makhni</P><br><br><br><br>
+<img src="Digital Veggie Paradise.jpg">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="file:///C:/Users/shiv/Desktop/PIZZA%20project/Digital%20Veggie%20Paradise%20page.html" target="_blank"><button onclick="di()" id="ten">click me</button></a><br><p style="color:white;font-size:25px">Digital Veggie Paradise</P><br><br><br><br>
+<img src="Fresh Veggie.jpg">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="file:///C:/Users/shiv/Desktop/PIZZA%20project/Fresh%20Veggie%20page.html" target="_blank"><button onclick="fr()" id="ele">click me</button></a><br><p style="color:white;font-size:25px">Fresh Veggie</P><br><br><br><br>
+</div>
+<script>
+function m()
+{
+document.getElementById("one").innerHTML="you have already SELECTED";
+document.getElementById("one").style.color="red";}
+function f()
+{
+document.getElementById("two").innerHTML="you have already SELECTED";
+document.getElementById("two").style.color="red";}
+function p()
+{
+document.getElementById("three").innerHTML="you have already SELECTED";
+document.getElementById("three").style.color="red";}
+function me()
+{
+document.getElementById("four").innerHTML="you have already SELECTED";
+document.getElementById("four").style.color="red";}
+function d()
+{
+document.getElementById("five").innerHTML="you have already SELECTED";
+document.getElementById("five").style.color="red";}
+function fi()
+{
+document.getElementById("six").innerHTML="you have already SELECTED";
+document.getElementById("six").style.color="red";}
+function v()
+{
+document.getElementById("seven").innerHTML="you have already SELECTED";
+document.getElementById("seven").style.color="red";}
+function c()
+{
+document.getElementById("eight").innerHTML="you have already SELECTED";
+document.getElementById("eight").style.color="red";}
+function pa()
+{
+document.getElementById("nine").innerHTML="you have already SELECTED";
+document.getElementById("nine").style.color="red";}
+function di()
+{
+document.getElementById("ten").innerHTML="you have already SELECTED";
+document.getElementById("ten").style.color="red";}
+function fr()
+{
+document.getElementById("ele").innerHTML="you have already SELECTED";
+document.getElementById("ele").style.color="red";}
+</script>
+</body>
+</html>
